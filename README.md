@@ -1,0 +1,2 @@
+# FreJunAssignement
+QA Automation Framework
